@@ -1,0 +1,22 @@
+{
+  "name": "prueba1",
+  "version": "1.0.0",
+  "description": "incio de pueba con git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/almaodaniel/pruebatestqa1.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "\"elieser valero\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almaodaniel/pruebatestqa1/issues"
+  },
+  "homepage": "https://github.com/almaodaniel/pruebatestqa1#readme"
+}
